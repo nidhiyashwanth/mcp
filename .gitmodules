@@ -1,0 +1,3 @@
+[submodule "weather-mcp"]
+	path = weather-mcp
+	url = git@github.com:nidhiyashwanth/weather-mcp.git
