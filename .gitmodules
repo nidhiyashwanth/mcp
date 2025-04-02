@@ -1,3 +1,6 @@
 [submodule "weather-mcp"]
 	path = weather-mcp
 	url = git@github.com:nidhiyashwanth/weather-mcp.git
+[submodule "mcp-session-aware-chatbot"]
+	path = mcp-session-aware-chatbot
+	url = git@github.com:nidhiyashwanth/mcp-session-aware-chatbot.git
